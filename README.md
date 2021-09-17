@@ -24,6 +24,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
    [MIT](https://choosealicense.com/licenses/mit/)
    
 ##### PICTURE
-![PICTURE] (
+![PICTURE](https://github.com/alpino87/kodluyoruzilkrepo/blob/main/README.md)
 
 
