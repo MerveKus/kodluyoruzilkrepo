@@ -1,5 +1,4 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi Kapsamında Açtığım İlk Repo
+
 # KODLUYORUZ ILK REPO
   Bu repo, kodluyoruz front-end eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet ReadMe dosyası ve bir adet index.html barındırıyor.
 
@@ -24,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 #### LICENCE
    [MIT](https://choosealicense.com/licenses/mit/)
 
-   ![ProjectPicture] (https://github.com/alpino87/kodluyoruzilkrepo/blob/main/README.md)
+
