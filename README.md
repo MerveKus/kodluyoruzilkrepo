@@ -14,7 +14,7 @@ Projeyi kolonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-    cd kodluyoruzilkrepo\
+    cd kodluyoruzilkrepo
     code .
 
 ### CONTRIBUTING
@@ -22,5 +22,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 #### LICENCE
    [MIT](https://choosealicense.com/licenses/mit/)
+   
+##### PICTURE
+![PICTURE] (
 
 
